@@ -1,0 +1,274 @@
+{
+  "3": { "left": 626, "top": 11592, "url": "", "animals": [] },
+  "4": { "left": 62, "top": 11600, "url": "", "animals": [] },
+  "5": { "left": -261, "top": 11413, "url": "", "animals": [] },
+  "6": {
+    "left": 393,
+    "top": 11096,
+    "url": "",
+    "animals": [
+      {
+        "type": "Muntjac",
+        "left": 160,
+        "top": 185,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": true,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  },
+  "7": {
+    "left": 57,
+    "top": 10800,
+    "url": "",
+    "animals": [
+      {
+        "type": "FlyingSquirrel",
+        "left": 220,
+        "top": 90,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": true,
+        "move": { "left": 0, "top": 50 }
+      },
+      {
+        "type": "WhiteBelliedRat",
+        "left": 34,
+        "top": 165,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": false,
+        "move": { "left": 20, "top": 30 }
+      }
+    ]
+  },
+  "8": { "left": 791, "top": 12036, "url": "", "animals": [] },
+  "9": { "left": 721, "top": 11400, "url": "", "animals": [] },
+  "10": { "left": 585, "top": 10942, "url": "", "animals": [] },
+  "11": {
+    "left": -214,
+    "top": 10659,
+    "url": "",
+    "animals": [
+      {
+        "type": "WildGoat",
+        "left": 240,
+        "top": 70,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": false,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  },
+  "12": { "left": 40, "top": 10320, "url": "", "animals": [] },
+  "13": { "left": 871, "top": 10911, "url": "", "animals": [] },
+  "14": { "left": 752, "top": 10853, "url": "", "animals": [] },
+  "15": {
+    "left": 375,
+    "top": 10448,
+    "url": "",
+    "animals": [
+      {
+        "type": "BlackBear",
+        "left": 180,
+        "top": 120,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": false,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  },
+  "16": { "left": 227, "top": 10202, "url": "", "animals": [] },
+  "17": { "left": -143, "top": 10156, "url": "", "animals": [] },
+  "18": { "left": 669, "top": 10786, "url": "", "animals": [] },
+  "19": { "left": 806, "top": 10707, "url": "", "animals": [] },
+  "20": {
+    "left": 505,
+    "top": 9909,
+    "url": "",
+    "animals": []
+  },
+  "21": {
+    "left": -46,
+    "top": 10212,
+    "url": "",
+    "animals": [
+      {
+        "type": "YellowThroatedMarten",
+        "left": 190,
+        "top": 35,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": true,
+        "move": { "left": 140, "top": 0 }
+      }
+    ]
+  },
+  "22": { "left": -186, "top": 9631, "url": "", "animals": [] },
+  "23": { "left": 193, "top": 10038, "url": "", "animals": [] },
+  "24": {
+    "left": 771,
+    "top": 9800,
+    "url": "",
+    "animals": [
+      {
+        "type": "Muntjac",
+        "left": -80,
+        "top": 70,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": false,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  },
+  "25": {
+    "left": 443,
+    "top": 9355,
+    "url": "",
+    "animals": []
+  },
+  "26": {
+    "left": 20,
+    "top": 9276,
+    "url": "",
+    "animals": [
+      {
+        "type": "BlackBear",
+        "left": 340,
+        "top": 80,
+        "scene": 1,
+        "isBack": true,
+        "isMirror": false,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  },
+  "27": { "left": -204, "top": 9063, "url": "", "animals": [] },
+  "28": { "left": 672, "top": 8982, "url": "", "animals": [] },
+  "29": { "left": 475, "top": 8778, "url": "", "animals": [] },
+  "30": { "left": 723, "top": 8552, "url": "", "animals": [] },
+  "31": { "left": 205, "top": 8218, "url": "", "animals": [] },
+  "32": { "left": -206, "top": 8351, "url": "", "animals": [] },
+  "33": { "left": 425, "top": 7875, "url": "", "animals": [] },
+  "34": { "left": -39, "top": 8887, "url": "", "animals": [] },
+  "35": { "left": 139, "top": 8099, "url": "", "animals": [] },
+  "36": { "left": -110, "top": 8039, "url": "", "animals": [] },
+  "37": { "left": 778, "top": 7874, "url": "", "animals": [] },
+  "38": { "left": 556, "top": 7387, "url": "", "animals": [] },
+  "39": { "left": 350, "top": 7288, "url": "", "animals": [] },
+  "40": { "left": 7, "top": 7958, "url": "", "animals": [] },
+  "41": {
+    "left": 134,
+    "top": 7159,
+    "url": "",
+    "animals": [
+      {
+        "type": "BroadEaredBat",
+        "left": 60,
+        "top": 100,
+        "scene": 1,
+        "isBack": false,
+        "isMirror": false,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  },
+  "42": { "left": -93, "top": 7127, "url": "", "animals": [] },
+  "43": { "left": 842, "top": 7654, "url": "", "animals": [] },
+  "44": { "left": 534, "top": 7017, "url": "", "animals": [] },
+  "45": { "left": 335, "top": 6917, "url": "", "animals": [] },
+  "46": { "left": -168, "top": 6673, "url": "", "animals": [] },
+  "47": { "left": 766, "top": 7548, "url": "", "animals": [] },
+  "48": { "left": 564, "top": 6793, "url": "", "animals": [] },
+  "49": { "left": -186, "top": 6435, "url": "", "animals": [] },
+  "50": { "left": 145, "top": 6244, "url": "", "animals": [] },
+  "51": { "left": 371, "top": 6880, "url": "", "animals": [] },
+  "52": { "left": 501, "top": 6759, "url": "", "animals": [] },
+  "53": { "left": 631, "top": 6150, "url": "", "animals": [] },
+  "54": { "left": -149, "top": 5819, "url": "", "animals": [] },
+  "55": { "left": 467, "top": 5863, "url": "", "animals": [] },
+  "56": { "left": -8, "top": 6274, "url": "", "animals": [] },
+  "57": { "left": -157, "top": 5196, "url": "", "animals": [] },
+  "58": { "left": 644, "top": 5092, "url": "", "animals": [] },
+  "59": { "left": 602, "top": 6104, "url": "", "animals": [] },
+  "60": { "left": 655, "top": 5228, "url": "", "animals": [] },
+  "61": { "left": 314, "top": 5198, "url": "", "animals": [] },
+  "62": { "left": 502, "top": 5123, "url": "", "animals": [] },
+  "63": { "left": 193, "top": 4797, "url": "", "animals": [] },
+  "64": { "left": -89, "top": 4706, "url": "", "animals": [] },
+  "65": { "left": 170, "top": 4626, "url": "", "animals": [] },
+  "66": { "left": 862, "top": 4715, "url": "", "animals": [] },
+  "67": { "left": 602, "top": 4694, "url": "", "animals": [] },
+  "68": { "left": 729, "top": 4523, "url": "", "animals": [] },
+  "69": { "left": 485, "top": 4579, "url": "", "animals": [] },
+  "70": { "left": 190, "top": 4118, "url": "", "animals": [] },
+  "71": { "left": -244, "top": 4025, "url": "", "animals": [] },
+  "72": { "left": 38, "top": 3797, "url": "", "animals": [] },
+  "73": { "left": -149, "top": 3530, "url": "", "animals": [] },
+  "74": { "left": 51, "top": 3378, "url": "", "animals": [] },
+  "75": { "left": 253, "top": 3365, "url": "", "animals": [] },
+  "76": { "left": -143, "top": 3141, "url": "", "animals": [] },
+  "77": { "left": 80, "top": 3069, "url": "", "animals": [] },
+  "78": { "left": 836, "top": 4510, "url": "", "animals": [] },
+  "79": { "left": 776, "top": 3895, "url": "", "animals": [] },
+  "80": { "left": 653, "top": 3690, "url": "", "animals": [] },
+  "81": { "left": 573, "top": 3040, "url": "", "animals": [] },
+  "82": { "left": 247, "top": 2976, "url": "", "animals": [] },
+  "83": { "left": 376, "top": 3726, "url": "", "animals": [] },
+  "84": { "left": 429, "top": 2902, "url": "", "animals": [] },
+  "85": { "left": -17, "top": 2634, "url": "", "animals": [] },
+  "86": { "left": -234, "top": 2308, "url": "", "animals": [] },
+  "87": { "left": 713, "top": 3522, "url": "", "animals": [] },
+  "88": { "left": 790, "top": 2734, "url": "", "animals": [] },
+  "89": { "left": 543, "top": 2650, "url": "", "animals": [] },
+  "90": { "left": 583, "top": 2178, "url": "", "animals": [] },
+  "91": { "left": 185, "top": 2666, "url": "", "animals": [] },
+  "92": { "left": 111, "top": 2092, "url": "", "animals": [] },
+  "93": { "left": -226, "top": 2516, "url": "", "animals": [] },
+  "94": { "left": -143, "top": 1645, "url": "", "animals": [] },
+  "95": { "left": 38, "top": 1558, "url": "", "animals": [] },
+  "96": { "left": 240, "top": 1547, "url": "", "animals": [] },
+  "97": { "left": 513, "top": 2081, "url": "", "animals": [] },
+  "98": { "left": 640, "top": 1282, "url": "", "animals": [] },
+  "99": { "left": 413, "top": 1250, "url": "", "animals": [] },
+  "100": { "left": 813, "top": 2037, "url": "", "animals": [] },
+  "101": { "left": 808, "top": 1140, "url": "", "animals": [] },
+  "102": { "left": -17, "top": 1070, "url": "", "animals": [] },
+  "103": { "left": 75, "top": 1582, "url": "", "animals": [] },
+  "104": { "left": -203, "top": 1487, "url": "", "animals": [] },
+  "105": { "left": -229, "top": 657, "url": "", "animals": [] },
+  "106": { "left": 448, "top": 889, "url": "", "animals": [] },
+  "107": { "left": 806, "top": 658, "url": "", "animals": [] },
+  "108": { "left": 480, "top": 303, "url": "", "animals": [] },
+  "109": { "left": 43, "top": 455, "url": "", "animals": [] },
+  "110": { "left": 203, "top": 390, "url": "", "animals": [] },
+  "111": { "left": -138, "top": 400, "url": "", "animals": [] },
+  "112": { "left": 128, "top": 162, "url": "", "animals": [] },
+  "113": { "left": -124, "top": 80, "url": "", "animals": [] },
+  "114": { "left": 540, "top": 19, "url": "", "animals": [] },
+  "115": { "left": 262, "top": 0, "url": "", "animals": [] },
+  "116": {
+    "left": 62,
+    "top": -538,
+    "url": "",
+    "animals": [
+      {
+        "type": "ScopsOwl",
+        "left": 135,
+        "top": 167,
+        "scene": 1,
+        "isBack": false,
+        "isMirror": false,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  },
+  "117": { "left": -261, "top": -725 },
+  "118": { "left": 570, "top": -540 },
+  "119": { "left": 700, "top": -140 },
+  "120": { "left": -78, "top": -105 }
+}
