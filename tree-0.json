@@ -1,0 +1,18 @@
+{
+  "18": {
+    "left": 62,
+    "top": 0,
+    "url": "",
+    "animals": [
+      {
+        "type": "ScopsOwl",
+        "left": 135,
+        "top": 167,
+        "scene": 1,
+        "isBack": false,
+        "isMirror": false,
+        "move": { "left": 0, "top": 0 }
+      }
+    ]
+  }
+}
